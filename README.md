@@ -1,25 +1,94 @@
-<h1 align="center">Ahoy!👋, I'm Monish Solanki</h1>
-<h3 align="center">Web3.0 developer from Hogwarts</h3>
+<h1 align="center">Monish Solanki</h1>
+<h3 align="center">Android Developer | Problem Solver | Tech-Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kvothe045&label=Profile%20views&color=0e75b6&style=flat" alt="kvothe045" /> </p>
-
-- 🌱 I’m currently learning **Solidity, Go, JS, Next**
-
-- 👨‍💻 All of my projects are available at [todo](todo)
-
-- 💬 Ask me about **Web3.0, Blockchain, Data Structures, Books**
-
-- 📫 How to reach me **aryansrivastav106@gmail.com**
-
-- ⚡ Fun fact **I solemnly swear that I am upto no good 👻**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=monishsolanki07&label=Profile%20views&color=0e75b6&style=flat" alt="monishsolanki07" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monishsolanki07&show_icons=true&locale=en&layout=compact" alt="monishsolanki07" /></p>
+🎯 **Professional Summary**  
+A skilled Android Developer with a strong grip on **Kotlin**, **Jetpack Compose**, and **secure app development** using **RSA/AES encryption**. Well-versed in **Data Structures**, **Algorithms**, and backend integration with **Django**. I build efficient, user-centric systems designed for performance, security, and clarity.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monishsolanki07&show_icons=true&locale=en" alt="monishsolanki07" /></p>
+---
+
+🧠 **Technical Expertise**
+
+- **Languages & Frameworks:** C++, Kotlin, Python, JavaScript, HTML, CSS  
+- **Technologies:** Jetpack Compose, Django, SQLite, MongoDB  
+- **Concepts:** MVVM, Debugging, Cryptography (RSA & AES), UI/UX Design  
+- **Tools:** Git, Linux
+
+---
+
+📚 **Education**
+
+- 🎓 B.Tech CSE – *Chandigarh University* (2022–2026) – CGPA: **7.5**  
+- 📘 Intermediate – *St. Mary’s Convent, Dewas* (2019–2021) – **86%**  
+- 📗 Matriculation – *St. Mary’s Convent, Dewas* (2009–2019) – **89%**
+
+---
+
+🚀 **Projects**
+
+- **VOCA – Vocal Optimization & Communication Analysis**  
+  *Apr 2024 – Dec 2025*  
+  - Real-time speech evaluation platform using **Kotlin**, **Jetpack Compose**, and **Django**  
+  - Integrated **RSA & AES encryption** for secure mobile-web data handling  
+  - Optimized speech clarity and tone with **AI-driven feedback**  
+  - Boosted system efficiency by **60%**  
+  - **Stack:** Kotlin, Django, Python, SQLite, MongoDB, Gemini AI
+
+- **e-Notes – Secure Note Vault**  
+  *Jan 2023 – Nov 2023*  
+  - Digital note storage with encryption and credential login  
+  - Built using **Django** and **SQLite**  
+  - **Stack:** Python, HTML/CSS/JS, SQLite
+
+- **Fitbud – Fitness Website**  
+  *Feb 2023 – Dec 2023*  
+  - Personalized fitness tracker with diet plans, health blogs & BMI calculator  
+  - **Stack:** Python, Django, HTML, CSS, JavaScript
+
+---
+
+🏆 **Achievements**
+
+- 🥇 **Top 40** out of 1500+ teams at *ReSkills Hackathon* (Team Lead – VOCA)  
+- 🔐 **Top 50** at *BFCET Hackathon* – Developed “El Protector” Chrome extension  
+- 🥈 **2nd Place** at *Electrothon 7.0* (NIT Hamirpur) – Among 1500+ participants
+
+---
+
+📜 **Certifications**
+
+- Microsoft x LinkedIn – *Career Essentials in Software Development*  
+- Google – *Foundations of UX Design*  
+- Google – *Professional Python Development Crash Course*  
+- Amazon – *AWS Cloud Technology Essentials*
+
+---
+
+🧩 **Soft Skills**
+
+Teamwork | Leadership | Problem Solving | Attention to Detail | Collaboration
+
+---
+
+🎮 **Interests**
+
+Running 🏃 | Football ⚽ | Travelling 🌍
+
+---
+
+📫 **Contact Me**
+
+- ✉️ Email: [monishsolanki0707@gmail.com](mailto:monishsolanki0707@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/monish-solanki-](https://www.linkedin.com/in/monish-solanki-/)  
+- 💻 Leetcode: [leetcode.com/Monish_Solanki07](https://leetcode.com/Monish_Solanki07/)  
+- 📍 Location: Mohali, Punjab – 140301
+
+---
+
+> *“Precision. Focus. Relentless execution.” – That’s how I build. That’s how I deliver.*  
+> — Monish Solanki
