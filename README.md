@@ -74,16 +74,7 @@ LLMs, and multimodal AI.
 <table>
   <tbody>
 
-<tr>
-<td><b>🍬 Treato — Sweet Inventory Management System</b></td>
-<td>
-Full-stack inventory management system with a candy-themed UI.<br><br>
-<b>Tech:</b> Django REST, React, PostgreSQL, JWT<br>
-• Secure authentication & role-based access<br>
-• Admin dashboard for real-time inventory updates<br>
-• Clean, modular REST API design
-</td>
-</tr>
+
 
 <tr>
 <td><b>🧠 VOCA — AI Soft Skills Analysis Platform</b></td>
@@ -107,6 +98,16 @@ High-performance Android news app with personalization.<br><br>
 </td>
 </tr>
 
+<tr>
+<td><b>🍬 Treato — Sweet Inventory Management System</b></td>
+<td>
+Full-stack inventory management system with a candy-themed UI.<br><br>
+<b>Tech:</b> Django REST, React, PostgreSQL, JWT<br>
+• Secure authentication & role-based access<br>
+• Admin dashboard for real-time inventory updates<br>
+• Clean, modular REST API design
+</td>
+</tr>
 </tbody>
 </table>
 
